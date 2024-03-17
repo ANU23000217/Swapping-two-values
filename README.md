@@ -18,25 +18,7 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-```
-Name :  ANU RADHA N
-Reg No: 212223230018
-Dept :  AI&DS
-```
-```
-def swap(a,b):
-    c=a
-    a=b
-    b=c
-    return a,b
-a=input()
-b=input()
-a,b = swap(a,b)
-print("Swapped values are: {} {}".format(a,b))
-```
-## OUTPUT
-![Screenshot 2024-03-10 120454](https://github.com/ArchanaSharikalHarinarayanan/Swapping-two-values/assets/139117108/55717a62-284d-40af-bdb6-b20e829887b3)
-
+## OUTPUT: 
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
